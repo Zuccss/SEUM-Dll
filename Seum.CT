@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="28">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"HandValue"</Description>
+      <LastState Value="479720520" RealAddress="1D021260"/>
+      <Color>FF8000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Seum.exe"+01052298</Address>
+      <Offsets>
+        <Offset>90</Offset>
+        <Offset>C</Offset>
+        <Offset>18</Offset>
+        <Offset>28</Offset>
+        <Offset>10</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"Brightness"</Description>
+      <LastState Value="11" RealAddress="1C78B680"/>
+      <Color>0000FF</Color>
+      <VariableType>Float</VariableType>
+      <Address>"mono.dll"+001F4684</Address>
+      <Offsets>
+        <Offset>7F8</Offset>
+        <Offset>7A4</Offset>
+        <Offset>24C</Offset>
+        <Offset>7F0</Offset>
+        <Offset>60</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"Crosshair "</Description>
+      <LastState Value="2" RealAddress="1C78B67C"/>
+      <Color>008000</Color>
+      <VariableType>Byte</VariableType>
+      <Address>"mono.dll"+001F4648</Address>
+      <Offsets>
+        <Offset>74C</Offset>
+        <Offset>18</Offset>
+        <Offset>14</Offset>
+        <Offset>628</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"Z axis 1"</Description>
+      <VariableType>Float</VariableType>
+      <Address>440BC584</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"Fov 1"</Description>
+      <LastState Value="4.417173916E-37" RealAddress="1B06B68C"/>
+      <VariableType>Float</VariableType>
+      <Address>1B06B68C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"Fov 2"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1B88B68C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"Fov 3"</Description>
+      <LastState Value="1" RealAddress="1C78B68C"/>
+      <VariableType>Float</VariableType>
+      <Address>1C78B68C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
